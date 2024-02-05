@@ -1,4 +1,4 @@
-### Hi there, I'm Jessica! 👋
+### Hi, I'm Jessica! 👋
 
 <!--
 **jsscachen/jsscachen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
